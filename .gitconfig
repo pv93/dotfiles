@@ -1,3 +1,5 @@
 [alias]
 	co = checkout
 	br = branch
+[apply]
+	whitespace = fix
