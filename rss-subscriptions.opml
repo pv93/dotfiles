@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="1.0">
+    <head>
+        <title>Vienna Subscriptions</title>
+        <dateCreated>2020-12-23 00:49:10 +0000</dateCreated>
+    </head>
+    <body>
+        <outline htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="http://feeds.feedburner.com/AmazonWebServicesBlog" type="rss" description="Announcements, Updates, and Launches" text="AWS News Blog"/>
+        <outline htmlUrl="https://buildkite.com" xmlUrl="https://buildkite.com/changelog.atom" type="rss" description="" text="Buildkite Changelog"/>
+        <outline text="Github Releases">
+            <outline htmlUrl="https://github.com/buildkite/elastic-ci-stack-for-aws/releases" xmlUrl="https://github.com/buildkite/elastic-ci-stack-for-aws/releases.atom" type="rss" description="" text="elastic-ci-stack-for-aws"/>
+        </outline>
+    </body>
+</opml>
